@@ -10,7 +10,7 @@ namespace snakeLadder
         }
         static void GameCheck()
         {
-            const int startPoint = 0;
+            int startPoint = 0;
         }
     }
 }
