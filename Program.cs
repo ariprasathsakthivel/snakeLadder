@@ -26,6 +26,10 @@ namespace snakeLadder
                     currentPosition = currentPosition - dieNumber;
                     break;
             }
+            if (currentPosition <= 0)
+            {
+                currentPosition = startPoint;
+            }
             Console.WriteLine(currentPosition);
         }
     }
