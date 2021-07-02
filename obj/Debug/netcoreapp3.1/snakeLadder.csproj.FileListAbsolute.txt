@@ -1,0 +1,13 @@
+E:\C#\SnakeLadder\snakeLadder\bin\Debug\netcoreapp3.1\snakeLadder.exe
+E:\C#\SnakeLadder\snakeLadder\bin\Debug\netcoreapp3.1\snakeLadder.deps.json
+E:\C#\SnakeLadder\snakeLadder\bin\Debug\netcoreapp3.1\snakeLadder.runtimeconfig.json
+E:\C#\SnakeLadder\snakeLadder\bin\Debug\netcoreapp3.1\snakeLadder.runtimeconfig.dev.json
+E:\C#\SnakeLadder\snakeLadder\bin\Debug\netcoreapp3.1\snakeLadder.dll
+E:\C#\SnakeLadder\snakeLadder\bin\Debug\netcoreapp3.1\snakeLadder.pdb
+E:\C#\SnakeLadder\snakeLadder\obj\Debug\netcoreapp3.1\snakeLadder.csproj.AssemblyReference.cache
+E:\C#\SnakeLadder\snakeLadder\obj\Debug\netcoreapp3.1\snakeLadder.AssemblyInfoInputs.cache
+E:\C#\SnakeLadder\snakeLadder\obj\Debug\netcoreapp3.1\snakeLadder.AssemblyInfo.cs
+E:\C#\SnakeLadder\snakeLadder\obj\Debug\netcoreapp3.1\snakeLadder.csproj.CoreCompileInputs.cache
+E:\C#\SnakeLadder\snakeLadder\obj\Debug\netcoreapp3.1\snakeLadder.dll
+E:\C#\SnakeLadder\snakeLadder\obj\Debug\netcoreapp3.1\snakeLadder.pdb
+E:\C#\SnakeLadder\snakeLadder\obj\Debug\netcoreapp3.1\snakeLadder.genruntimeconfig.cache
