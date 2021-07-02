@@ -12,13 +12,15 @@ namespace snakeLadder
         {
             const int startPoint = 0;
             int currentPosition = 0;
-            while (currentPosition < 100)
+            int gameCount = 0;
+            while (currentPosition <= 100)
             {
+                gameCount++;
                 Random random = new Random();
                 int dieNumber = random.Next(1, 7);
                 int option = random.Next(0, 3);
                 Console.WriteLine(currentPosition);
-                if ((currentPosition+dieNumber) > 100)
+                if ((currentPosition+dieNumber) > 100 && currentPosition != 100)
                 {
                     continue;
                 }
@@ -38,7 +40,7 @@ namespace snakeLadder
                     currentPosition = startPoint;
                 }
             }
-            Console.WriteLine(currentPosition);
+            Console.WriteLine("The number of times the dice was played to win the game is {0}",gameCount);
         }
     }
 }
